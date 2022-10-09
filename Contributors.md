@@ -478,6 +478,7 @@
 - [WerG0D](https://github.com/WerG0D)
 - [jason0kenyon](https://github.com/jason0kenyon)
 - [JerryCodesAfrica](https://github.com/JerryCodesAfrica)
+- [Ganpat](https://github.com/ganpat-patel-012)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Prajukta Dey](https://github.com/prajuktadey)
 - [Gaurav Verma](https://github.com/iisgaurav)
