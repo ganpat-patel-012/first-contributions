@@ -1247,6 +1247,7 @@
 - [Lane Foxwood](https://github.com/lanefoxwood)
 - [Vidhish Trivedi](https://github.com/Vidhish-Trivedi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
+- [Ganpat Patel](https://ganpat.patel.com)
 - [Nakul Gupta](https://github.com/nakul010)
 - [Cristhian](https://github.com/Cristhian611)
 - [Erfan Razi](https://github.com/erfanrazi)
